@@ -1,7 +1,7 @@
 <?php
 
-$sunucu = "185.50.71.32";
-$sifre = "159705Fu";
+$sunucu = "databaseip";
+$sifre = "databasepw";
 $veritabani = "codingtr_lolquery";
 $kullanici = "codingtr_furkan";
 
