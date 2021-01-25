@@ -1,0 +1,111 @@
+.haber-ekle{
+    color:#fff;
+}
+
+.baslik{
+    width:200px;
+    border-radius:8px;
+    border:2px solid #fff;
+    background:none;
+    transition:1s;
+    color:#fff;
+}
+
+.baslik:focus{
+    width:500px;
+    border-radius:8px;
+    border:2px solid #c552e9;
+    background:none;
+    outline:none;
+    color:#fff;
+    transition:1s;
+}
+
+.ozet{
+    height:80px;
+    width:300px;
+    border-radius:8px;
+    border:2px solid #fff;
+    background:none;
+    transition:1s;
+    color:#fff;
+    resize:none;
+}
+
+.ozet:focus{
+    border-radius:8px;
+    border:2px solid #c552e9;
+    background:none;
+    outline:none;
+    color:#fff;
+    transition:1s;
+}
+
+.icerik{
+    height:300px;
+    width:600px;
+    border-radius:8px;
+    border:2px solid #fff;
+    background:none;
+    transition:1s;
+    color:#fff;
+    resize:none;
+}
+
+.icerik:focus{
+     border-radius:8px;
+    border:2px solid #c552e9;
+    background:none;
+    outline:none;
+    color:#fff;
+    transition:1s;
+}
+
+.haber-ekle input[type="submit"]{
+    padding:6px;
+    background:none;
+    border-radius:8px;
+    border:2px solid #fff;
+    color:#c552e9;
+    transition:1s;
+}
+
+.haber-ekle input[type="submit"]:hover{
+    border-radius:8px;
+    border:2px solid #c552e9;
+    background:none;
+    outline:none;
+    transition:1s;
+    color:#fff;
+    cursor:pointer;
+}
+
+#custom-button{
+    padding:6px;
+    background:none;
+    border-radius:8px;
+    border:2px solid #fff;
+    color:#c552e9;
+    transition:1s;
+    position:absolute;
+    margin-top:-50px;
+}
+
+#custom-button:hover{
+     border-radius:8px;
+    border:2px solid #c552e9;
+    background:none;
+    outline:none;
+    transition:1s;
+    color:#fff;
+    cursor:pointer;
+}
+
+#custom-text{
+    position:absolute;
+    margin-top:-43px;
+    margin-left:100px;
+}
+
+
+

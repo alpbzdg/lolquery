@@ -1,0 +1,97 @@
+.kapsar{
+      width:1000px;
+    height:100%;
+    margin:0 auto;
+}
+
+
+
+.kapsar div{
+    float:left;
+}
+
+.orta-icerik{
+    height:100%;
+    width:740px;
+}
+
+
+.orta-icerik img{
+    border-radius:10px;
+    width:1000px;
+}
+
+#kategori{
+   position:relative;
+   top:30px;
+}
+
+.sag-bilgi{
+    width:250px;
+    height:100%;
+    position:relative;
+    left:10px;
+    top:720px;
+}
+
+.kisi-info{
+    width:248px;
+    height:300px;
+    border:2px solid rgba(0,0,0,.125);
+    border-radius:10px;
+}
+
+
+.circular--landscape {
+  display: inline-block;
+  position: relative;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 50%;
+  position: relative;
+    left: 70px;
+    top: 15px;
+}
+
+.circular--landscape img {
+  width: auto;
+  height: 100%;
+}
+
+.kisi-info{
+    text-align:center;
+}
+
+
+.editor-isim{
+    margin-top:105px;
+}
+
+.linkedin{
+    position:relative;
+    top:-60px;
+    color:#525252;
+    transition:1s;
+}
+
+.linkedin:hover{
+    color:#007bff;
+    transition:1s;
+}
+
+
+.gricizgi{
+    width:244px;
+    height:1px;
+    border:1px solid rgba(0,0,0,.125);
+}
+
+.kisi-info span{
+    position:relative;
+    top:5px;
+}
+
+
+
+

@@ -1,0 +1,149 @@
+.tab-pane{
+    background:#fff;
+    height:400px;
+}
+
+.card-footer{
+    position:relative;
+    top:329px;
+    text-align:center;
+}
+
+.card-footer input[type="text"]{
+    width:850px;
+    margin-left:-92px;
+    border-radius:4px;
+    border:1px solid #121212;
+    
+}
+
+.card-footer input[type="text"]:focus{
+    width:850px;
+    margin-left:-92px;
+    border-radius:4px;
+    border:1px solid #121212;
+    outline:none;
+}
+
+.card-footer button{
+    position: absolute;
+    margin-left: 24px;
+    padding: 5px;
+    margin-top: -8px;
+    background: red;
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+}
+
+.esnek5v5{
+    height:100px;
+    width:140px;
+    background:rgba(0,0,0,.5);
+    border:1px solid yellow;
+    border-radius:5px;
+    position: relative;
+    float: right;
+    bottom: 91px;
+    
+}
+
+.tft{
+    height:100px;
+    width:140px;
+    background:rgba(0,0,0,.5);
+    border:1px solid yellow;
+    border-radius:5px;
+    position: relative;
+    float: right;
+    bottom: 91px;
+    left:10px;
+}
+
+.ranked{
+    height:100px;
+    width:140px;
+    background:rgba(0,0,0,.5);
+    border:1px solid yellow;
+    border-radius:5px;
+    position: relative;
+    float: right;
+    bottom: 91px;
+    right:10px;
+}
+
+.tft img{
+    height: 70px;
+    position: relative;
+    top: -28px;
+    left: 40px;
+}
+
+.ranked img{
+    height: 70px;
+    position: relative;
+    top: -28px;
+    left: 40px;
+}
+
+.esnek5v5 img{
+    height: 70px;
+    position: relative;
+    top: -28px;
+    left: 40px;
+}
+
+.ortak-chat{
+    width:900px;
+    height:1160px;
+    background:#fff;
+    margin:0 auto;
+    border:1px solid rgba(0,0,0,.125);
+    border-radius:5px;
+}
+
+.ortak-chat-header{
+    height:50px;
+    background:#fff;
+    border-bottom:1px solid rgba(0,0,0,.125);
+    
+}
+.ortak-chat-header font{
+    padding:10px;
+    position:Relative;
+    top:10px;
+}
+
+.ortak-chat-icerik{
+    height:425px;
+    
+    width: 942px;
+    margin-left: 6px;
+}
+.ortak-chat form textarea{
+    margin-top:5px;
+    height:35px;
+    width:800px;
+    margin-left:5px;
+    border:1px solid rgba(0,0,0,.125);
+}
+
+.ortak-chat form button{
+    padding: 5px;
+    position: absolute;
+    background: #0084ff;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.
+
+
+
+
+
+
+

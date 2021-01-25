@@ -1,0 +1,27 @@
+.canli-icerik{
+    width:1200px;
+    height:1000px;
+    margin:0 auto;
+}
+
+.canli-icerik div{
+    float:left;
+}
+
+.sol-canli{
+    height:1000px;
+    width:500px;
+}
+
+.sag-canli{
+    height:1000px;
+    width:500px;
+
+}
+
+.mac-bilgi{
+    height:100px;
+    width:1200px;
+    margin-bottom:20px;
+    text-align:center;
+}

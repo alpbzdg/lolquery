@@ -1,0 +1,106 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+body{
+  background-image: url('/img/lolarkaplan.jpg');
+  background-repeat: none;
+  background-size: 100%;
+  font-family: Cairo;
+  color:#fff;
+}
+
+.orta-kisim{
+  position: absolute;
+  margin:0 auto;
+  top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+ background: rgba(0,0,0,0.5);
+ height: 500px;
+ width: 300px;
+ border-radius: 15px 50px;
+}
+
+
+.orta-kisim form{
+  text-align: center;
+}
+
+.orta-kisim form input[type="text"]{
+  background: none;
+  border:2px solid #fff;
+  border-radius: 10px;
+  padding: 3px ;
+  color:#fff;
+  transition: 1s;
+  text-align: center;
+}
+
+.orta-kisim form select{
+  background: none;
+  border:2px solid #fff;
+  border-radius: 10px;
+  padding: 3px ;
+  color:#fff;
+  transition: 1s;
+  text-align: center;
+  outline:none;
+  transition: 1s;
+}
+.orta-kisim form select:focus{
+  transition: 1s;
+  outline:none;
+  border:2px solid #3498db;
+}
+
+
+.orta-kisim form select option{
+  background: rgba(0,0,0,0.8);
+  color:#fff;
+  outline: none;
+  transition: 1s;
+}
+
+
+.orta-kisim form input[type="text"]:focus{
+  transition: 1s;
+  outline:none;
+  border:2px solid #3498db;
+}
+
+.orta-kisim form input[type="password"]{
+  background: none;
+  border:2px solid #fff;
+  border-radius: 10px;
+  padding: 3px ;
+  color:#fff;
+  transition: 1s;
+  text-align: center;
+}
+.orta-kisim form input[type="password"]:focus{
+  transition: 1s;
+  outline:none;
+  border:2px solid #3498db;
+}
+
+.kaydet{
+  background:none;
+  color:#fff;
+  padding: 5px;
+  border:2px solid #fff;
+  cursor:pointer;
+}
+
+.goback{
+  margin-top:5px;
+  color:#fff;
+  text-decoration:none;
+ transition: 1s;
+}
+
+.goback:hover {
+  transition: 1s;
+  color:#3498db;
+}

@@ -1,0 +1,208 @@
+
+#oyuncu-foto{
+    border-radius: 50%;
+    height: 93px;
+    left: 0px;
+    margin-top: 14px;
+}
+#level-foto{
+    height: 54px;
+    position: relative;
+    left: 5px;
+    top: 60px;
+}
+
+#level{
+    color: #fff;
+  
+}
+
+.sol-karakter-info{
+    background:url("http://lolquery.codingtr.com/img/cerceve2.png");
+    border-radius:16px;
+    height:400px;
+    width:234px;
+    position: fixed;
+    z-index: 1;
+}
+
+.fotolar{
+    position:relative;
+    left:29%;
+}
+
+.yazilar{
+    text-align: center;
+    width: 234px;
+    height: 250px;
+    position: absolute;
+    margin-top: 150px;
+}
+
+
+#oyuncu-isim{
+   color:#fff;
+
+   
+}
+
+.orta-icerik div{
+    float:left;
+}
+
+.sag-info{
+    width:720px;
+    height:100px;
+    background-color:#121212;
+    background-image:url("https://raw.communitydragon.org/latest/plugins/rcp-fe-lol-match-history/global/default/background.jpg");
+    border-radius:15px 15px;
+    margin-left:66px;
+    color:#8b8b8b;
+    border:3px solid #a37c30;
+    margin-bottom:25px;
+    margin-left:300px;
+    background-size:100%;
+}
+
+
+.sag-info h4{
+    color:#775a28;
+    margin-top:3px;
+}
+
+.mac-gecmis-icerik{
+    width:716px;
+    height:82px;
+    margin-top:0px;
+    border-top:1px solid rgba(0,0,0,.3);
+    border-bottom:1px solid rgba(0,0,0,.3);
+}
+
+.char-photo img{
+    height: 106px;
+    border-radius: 50%;
+    margin-left: -31px;
+    margin-top: -7px;
+}
+
+
+
+.menudropdown{
+    height:350px;
+    width:720px;
+    left:-224px;
+    top:55px;
+    padding-right:16px;
+}
+
+#dropdownMenuButton{
+    background:#bb86fc;
+    border:none;
+}
+
+#incele{
+    background:#ffffff;
+    color:#000000;
+}
+
+.itemler img{
+    height:50px;
+    margin-left:10px;
+    border-radius:50% !important;
+    border:3px solid #1d1d1d;
+}
+
+.itemler{
+    margin-top:22px;
+    margin-left:30px;
+}
+
+.speller{
+    margin-left:40px;
+    margin-top:8px;
+}
+
+.speller img{
+    height:39px;
+    border-radius:5px;
+    border:1px solid #1d1d1d;
+}
+
+.cizgi-uzun{
+    height: 80px;
+    margin-top: 7px;
+    width: 1px;
+    background: #000;
+    margin-left: 36px;
+}
+
+.oyuncular{
+    width:720px;
+    
+}
+
+.oyuncular ul{
+    width:243px;
+    float:left;
+}
+
+
+#liste li img{
+    height:30px;
+    border-radius:50% !important;
+    padding-right:5px;
+
+}
+
+#liste2 li img{
+    
+    height:30px;
+    border-radius:50% !important;
+    float:right;
+    padding-left:5px;
+}
+
+#liste2{
+    margin-left:213px;
+}
+
+#liste{
+    margin-left:10px;
+}
+
+#liste li {
+    background:#121212;
+    
+}
+
+#liste2 li {
+    background:#121212;
+    text-align:right;
+}
+
+#liste .list-group-item {
+    border:1px solid #1d1d1d;
+}
+#liste2 .list-group-item{
+    border:1px solid #1d1d1d;
+}
+
+.tft-ranked{
+    width:234px;
+    height:300px;
+    margin-top:310px;
+    background-image:url("/img/tftarkaplan.png");
+    border-radius:16px;
+    text-align:center;
+    color:#fff;
+    
+}
+
+
+
+
+
+
+
+
+

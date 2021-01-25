@@ -1,0 +1,93 @@
+.orta-icerik{
+    height:1000px;
+    width:1024px;
+    margin:0 auto;
+}
+
+
+.orta-icerik button{
+    position:relative;
+    left:0;
+    float:left;
+}
+
+.linkler ul li a{
+    display:block;
+    background:url("http://lolquery.codingtr.com/img/butonpng.png");
+    height:34px;
+    width:123px;
+    transition:1s;
+    color:#fff;
+    text-align:center;
+    text-decoration:none;
+    padding-top:4px;
+    margin-left:10px;
+}
+
+.linkler ul li a:hover{
+    background:url("http://lolquery.codingtr.com/img/butonhover.png");
+    transition:1s;
+    color:yellow;
+    text-decoration:none;
+}
+
+.linkler ul li{
+    list-style:none;
+    float:left;
+}
+
+.linklerk ul {
+    height:1000px;
+    width:1000px;
+    margin-left:40px;
+}
+
+.tab-pane{
+    background:none;
+    width:825px;
+    height:300px;
+    margin-top:6px;
+}
+
+.nav-link{
+    background:#1e2328;
+    margin-top:5px;
+    color:#fff;
+    transition:1s;
+}
+
+.nav-link:hover{
+    color:yellow;
+    background:#0abde3;
+    transition:1s;
+}
+
+.nav-link:active{
+    color:yellow;
+    background:#0abde3;
+}
+
+.table tbody td{
+    border-top:1px solid #1e2328;
+    padding-top:23px;
+}
+
+.table tbody th{
+    border-top:1px solid #1e2328;
+}
+
+.table thead th {
+    border-top:1px solid #1e2328;
+}
+
+
+
+
+
+
+
+
+
+
+
+

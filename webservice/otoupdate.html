@@ -1,0 +1,42 @@
+<html>
+    
+    <head>
+        
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        
+        <script>
+            
+        var timer= 10;
+        var test="";
+        
+            function inTime(){
+                setTimeout(inTime,1000);
+                
+                if(timer == 10){
+                    $.post("message.php",{testing:test} ,function(data){
+                        window.close();
+                    })
+                    
+                    timer = 11;
+                    clearTimeout(inTime);
+                    
+                }
+                
+                timer--;
+                
+            }
+            
+            inTime();
+        
+            
+            
+        </script>
+        
+        
+    </head>
+    
+    
+    
+    
+    
+</html>
